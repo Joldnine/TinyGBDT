@@ -1,2 +1,2 @@
 # TinyGBDT
-A tiny basic GBDT implementation from scratch by Numpy.
+A tiny basic Gradient Boosting Decision Tree (GBDT) implementation from scratch by Numpy.
